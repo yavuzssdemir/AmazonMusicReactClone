@@ -1,0 +1,39 @@
+.sign-up {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  gap: 1rem;
+  font-weight: 600;
+}
+
+input {
+  padding: 0.8rem 2rem;
+  border: none;
+  border-radius: 0.125rem;
+}
+
+.sign-in {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  gap: 1rem;
+  font-weight: 600;
+}
+
+.submit-button {
+  color: black;
+  font-weight: 600;
+  border-radius: 0.125rem;
+}
+
+.sign-up-input input {
+  color: black;
+}
+
+.sign-in-input input {
+  color: black;
+}
